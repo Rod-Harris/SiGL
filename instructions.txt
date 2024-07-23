@@ -1,0 +1,35 @@
+Rojira Projects Structure
+
+[devel]/
+	lib/
+		<install dir for jars>
+		<jogl jars>
+		<jogl sos>
+		<jsi4 jar>
+	jmake5/
+		build.sh
+		compile.sh
+		clean.sh
+		run.sh
+		install-lib.sh
+	Jsi4/
+		resource/
+		src/
+	SiGL/
+		lib/
+			xyz.jar -> ../../../lib/xyz.jar
+		resource/
+			JP5AppInfo
+		src/
+		
+JP5AppInfo is a shell script that is sourced but the compile.sh script
+it has all the project specific variables for the jmake5 scripts to use	
+
+cd [devel]/Jsi4
+	../jmake5/compile.sh
+	../jmake5/install-lib.sh
+	
+cd [devel]/SiGL
+	../jmake5/compile.sh
+	../jmake5/install-lib.sh
+
