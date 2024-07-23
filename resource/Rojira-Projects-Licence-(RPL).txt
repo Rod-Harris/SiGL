@@ -1,0 +1,21 @@
+Rojira Projects Licence (RPL)
+
+Custom Free License (RPL-Free)
+=========================
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for philanthropic, educational, or personal purposes, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. If you release anything that includes this Software, you must provide the following acknowledgment: "This software includes code developed by Rod Harris. [RojiraProjects@gmail.com]"
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Custom Commercial License (RPL-Commercial)
+===============================
+For commercial use, a commercial license must be obtained from Rod Harris. The commercial license includes the following terms:
+
+1. Acknowledgment: If you release anything that includes this Software, you must provide the following acknowledgment: "This software includes code developed by Rod Harris. [RojiraProjects@gmail.com]"
+2. License Fee: <"Details of revenue-sharing agreement or one-time licensing fee will be determined on a case-by-case basis">
+
+For more information or to obtain a commercial license, please contact [RojiraProjects@gmail.com].
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.

@@ -1,0 +1,14 @@
+jp5pkg=sigl
+JP5Cls=SiGL
+JP5ENV=SIGL
+TARGET_DIR_PARENT="$HOME/tmp/devel/target/jp5-apps/$JP5Cls"
+JP5_APP_MAIN="rojira.$jp5pkg.SiGLClassGenerator"
+build_timestamp=-
+build=5
+version=JP5Wrapper
+INSTALL_LIB_DIR="$HOME/devel/lib"
+DEPS_DIR="./lib"
+JAR_DEPS="$DEPS_DIR/jsi4.jar:$DEPS_DIR/jogl.jar:$DEPS_DIR/gluegen-rt.jar"
+NATIVE_DEPS=
+MODULES=
+FX_OPTS=
